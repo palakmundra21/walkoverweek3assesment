@@ -141,7 +141,7 @@ a:link {
     font-style: sanserif;
     color: white;
     margin-right: 20px;
-    position: sticky;
+    position: relative;
 }
 
 
