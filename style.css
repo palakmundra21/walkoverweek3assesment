@@ -131,17 +131,93 @@ a:link {
     left: 48%;
 }
 
-#myBtn
-{
-    background-color: green;
+.co4 {
+	height: 50%;
+    width: 30px;
+    background-color: aqua;
+    position: absolute;
+    left: 0%;
+}
+
+.ro4 {
+	height: 30px;
+    width: 50%;
+    background-color: aqua;
+    position: absolute;
+    top: 0%;
+}
+
+.co5 {
+	height: 50%;
+    width: 30px;
+    background-color: aqua;
+    position: absolute;
+    left: 50%;
+}
+
+.ro5 {
+	height: 30px;
+    width: 50%;
+    background-color: aqua;
+    position: absolute;
+    top: 50%;
+}
+
+.co6 {
+	height: 50%;
+    width: 30px;
+    background-color: aqua;
+    position: absolute;
+    right: 0%;
+	bottom: 0%;
+}
+
+.ro6 {
+	height: 30px;
+    width: 50%;
+    background-color: aqua;
+    position: absolute;
+    top: 45%;
+	left: 50%;
+}
+
+.co7 {
+	height: 50%;
+    width: 30px;
+    background-color: aqua;
+    position: absolute;
+    right: 50%;
+	bottom: 0%;
+}
+
+.ro7 {
+	height: 30px;
+    width: 50%;
+    background-color: aqua;
+    position: absolute;
+    bottom: 0%;
+	left: 50%;
+}
+
+.form {
+	position: absolute;
+	bottom: 20%;
+	left: 10%;
+}
+
+
+
+.button {
+	/* background-color: green; */
     float:right;
     font-size: 20px;
+    
     border-radius: 2px;
     font-weight: bold;
     font-style: sanserif;
-    color: white;
+    color:black;
     margin-right: 20px;
-    position: relative;
+    position: sticky;
 }
 
 
